@@ -6,6 +6,7 @@
 // @author       AdoreJc
 // @match        https://*.instructure.com/courses/*/quizzes/*/take
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=instructure.com
+// @license      MIT
 // @grant        none
 // ==/UserScript==
 
