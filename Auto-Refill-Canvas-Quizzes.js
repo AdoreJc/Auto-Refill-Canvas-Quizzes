@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Auto refill quizzes
+// @name         Auto Refill Canvas Quizzes
 // @namespace    http://tampermonkey.net/
 // @version      v1.0.0
 // @description  Auto refill quizzes in canvas
